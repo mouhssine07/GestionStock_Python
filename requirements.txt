@@ -1,0 +1,16 @@
+# Core dependencies
+tkinter
+pillow>=10.0.0
+fpdf>=1.7.2
+lxml>=4.9.0
+matplotlib>=3.10.1
+numpy>=1.24.0
+
+# Additional dependencies
+python-dateutil>=2.8.2
+kiwisolver>=1.4.4
+cycler>=0.11.0
+fonttools>=4.40.0
+packaging>=23.1
+pyparsing>=3.0.9
+six>=1.16.0 

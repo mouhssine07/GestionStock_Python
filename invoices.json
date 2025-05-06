@@ -1,0 +1,31 @@
+[
+    {
+        "invoice_number": "INV-2025-002",
+        "date": "2025-05-06",
+        "due_date": "2025-06-05",
+        "seller": {
+            "company_name": "SmartStock Electronics",
+            "address": "123 Tech Lane, Innovation City, TX 75001",
+            "contact": "contact@smartstock.com | +1-800-555-1234",
+            "tax_id": "US-TAX-123456789"
+        },
+        "client_name": "mohisn",
+        "client_email": "mo@gmail.com",
+        "client_address": "casa",
+        "products": [
+            {
+                "name": "MacBook Pro 16-inch",
+                "price": 2399.99,
+                "quantity": 1
+            },
+            {
+                "name": "Dell XPS 13",
+                "price": 1299.99,
+                "quantity": 2
+            }
+        ],
+        "total_amount": 4999.969999999999,
+        "status": "Pending",
+        "logo": "[Company Logo]"
+    }
+]

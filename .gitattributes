@@ -1,0 +1,7 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+*.dll filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+dist/** filter=lfs diff=lfs merge=lfs -text
+SmartStock_Setup* filter=lfs diff=lfs merge=lfs -text
+*.msi filter=lfs diff=lfs merge=lfs -text
+*.dmg filter=lfs diff=lfs merge=lfs -text
