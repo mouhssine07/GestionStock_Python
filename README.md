@@ -73,7 +73,7 @@ Navigate to the `dist` folder and run `SmartStock.exe`
 All required dependencies are listed in `requirements.txt`
 
 ## License
-[Your License Here]
+[...]
 
 ## Author
-[Your Name]
+[Mouhssine jaiba]
