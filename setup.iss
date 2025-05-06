@@ -16,6 +16,10 @@ OutputBaseFilename=SmartStock_Setup
 Compression=lzma
 SolidCompression=yes
 WizardStyle=modern
+SignTool=signtool
+SignToolMinimumFileAge=0
+SignToolRunMinimized=yes
+SignToolRunAsAdmin=yes
 
 [Languages]
 Name: "english"; MessagesFile: "compiler:Default.isl"
