@@ -1,3 +1,17 @@
+
+![image](https://github.com/user-attachments/assets/eb10e93a-c8b8-4d14-a7d6-983e3d8245f4)
+![image](https://github.com/user-attachments/assets/94591cae-7d7d-49df-9ef1-945f2a98934f)
+![image](https://github.com/user-attachments/assets/29a8a8a1-c3d4-4c1f-9c7f-e8ea2417ac97)
+![image](https://github.com/user-attachments/assets/39d7caa2-ccc8-4e47-ace2-1201f08891e7)
+![image](https://github.com/user-attachments/assets/a1e9d0ba-130d-44e3-a543-a25c3f868d64)
+![image](https://github.com/user-attachments/assets/9ea45c93-2414-4765-8f57-faf084e51299)
+![image](https://github.com/user-attachments/assets/f484d629-0ffb-455c-8d90-a39012926ee1)
+
+
+
+
+
+
 # SmartStock - Inventory Management System
 
 A Python-based inventory management system with a modern GUI interface.
