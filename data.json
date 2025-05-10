@@ -1,22 +1,22 @@
 [
     {
         "name": "MacBook Pro 16-inch",
-        "quantity": 10,
+        "quantity": -3,
         "price": 2399.99
     },
     {
         "name": "Dell XPS 13",
-        "quantity": 13,
+        "quantity": 5,
         "price": 1299.99
     },
     {
         "name": "iPhone 14 Pro",
-        "quantity": 25,
+        "quantity": 10,
         "price": 999.99
     },
     {
         "name": "Samsung Galaxy S23 Ultra",
-        "quantity": 20,
+        "quantity": 15,
         "price": 1199.99
     },
     {
@@ -40,59 +40,14 @@
         "price": 199.99
     },
     {
-        "name": "Apple Watch Ultra",
-        "quantity": 18,
-        "price": 799.99
-    },
-    {
         "name": "Samsung Galaxy Watch 6",
         "quantity": 22,
         "price": 349.99
     },
     {
-        "name": "Fitbit Versa 4",
-        "quantity": 35,
-        "price": 229.99
-    },
-    {
-        "name": "Garmin Forerunner 265",
-        "quantity": 28,
-        "price": 449.99
-    },
-    {
-        "name": "Rolex Submariner Date",
-        "quantity": 5,
-        "price": 4999.99
-    },
-    {
-        "name": "Omega Seamaster Diver",
-        "quantity": 8,
-        "price": 3999.99
-    },
-    {
-        "name": "Tag Heuer Carrera",
-        "quantity": 7,
-        "price": 2999.99
-    },
-    {
         "name": "Asus ROG Zephyrus G14",
         "quantity": 14,
         "price": 1499.99
-    },
-    {
-        "name": "Google Pixel 8 Pro",
-        "quantity": 20,
-        "price": 899.99
-    },
-    {
-        "name": "Amazon Kindle Scribe",
-        "quantity": 25,
-        "price": 339.99
-    },
-    {
-        "name": "JBL Flip 6 Speaker",
-        "quantity": 45,
-        "price": 129.99
     },
     {
         "name": "Anker PowerCore 10000 Charger",

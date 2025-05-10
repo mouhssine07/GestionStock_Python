@@ -1,30 +1,69 @@
 [
     {
         "invoice_number": "INV-2025-002",
-        "date": "2025-05-06",
-        "due_date": "2025-06-05",
+        "date": "2025-05-09",
+        "due_date": "2025-06-08",
         "seller": {
             "company_name": "SmartStock Electronics",
             "address": "123 Tech Lane, Innovation City, TX 75001",
             "contact": "contact@smartstock.com | +1-800-555-1234",
             "tax_id": "US-TAX-123456789"
         },
-        "client_name": "mohisn",
-        "client_email": "mo@gmail.com",
-        "client_address": "casa",
+        "client_name": "amine",
+        "client_email": "amine@gmaill.com",
+        "client_address": "Rabat",
         "products": [
             {
                 "name": "MacBook Pro 16-inch",
                 "price": 2399.99,
-                "quantity": 1
+                "quantity": 7
             },
             {
                 "name": "Dell XPS 13",
                 "price": 1299.99,
-                "quantity": 2
+                "quantity": 8
+            },
+            {
+                "name": "iPhone 14 Pro",
+                "price": 999.99,
+                "quantity": 12
             }
         ],
-        "total_amount": 4999.969999999999,
+        "total_amount": 39199.73,
+        "status": "Pending",
+        "logo": "[Company Logo]"
+    },
+    {
+        "invoice_number": "INV-2025-002",
+        "date": "2025-05-09",
+        "due_date": "2025-06-08",
+        "seller": {
+            "company_name": "SmartStock Electronics",
+            "address": "123 Tech Lane, Innovation City, TX 75001",
+            "contact": "contact@smartstock.com | +1-800-555-1234",
+            "tax_id": "US-TAX-123456789"
+        },
+        "client_name": "achraf",
+        "client_email": "achraf@gmail.com",
+        "client_address": "Rabat",
+        "products": [
+            {
+                "name": "Dell XPS 13",
+                "price": 1299.99,
+                "quantity": 2
+            },
+            {
+                "name": "iPhone 14 Pro",
+                "price": 999.99,
+                "quantity": 3
+            },
+            {
+                "name": "Samsung Galaxy S23 Ultra",
+                "price": 1199.99,
+                "quantity": 5
+            }
+        ],
+        "total_amount": 11599.9,
         "status": "Pending",
         "logo": "[Company Logo]"
     }

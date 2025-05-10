@@ -11,6 +11,7 @@ from analytics_view import AnalyticsView
 from reports_view import ReportsView
 from settings_view import SettingsView
 
+
 class SmartStock:
     def __init__(self, username="admin"):
         self.username = username
@@ -45,6 +46,9 @@ class SmartStock:
         self.main_frame = ttk.Frame(self.root, style="Main.TFrame")
         self.main_frame.pack(side="right", fill="both", expand=True)
     
+
+
+
     def create_sidebar(self):
         """Create the application sidebar"""
         sidebar_width = 240
@@ -78,6 +82,7 @@ class SmartStock:
         )
         app_name.pack(side="left")
         
+
         nav_items = [
             {"text": "Dashboard", "icon": "🏠", "active": True},
             {"text": "Products", "icon": "📦"},
@@ -181,6 +186,7 @@ class SmartStock:
             for child in frame.winfo_children():
                 if isinstance(child, tk.Label) and child.cget("text") == self.get_icon(text):
                     child.config(padx=16 if is_active else 20)
+                    
         
         # Clear current view
         for widget in self.main_frame.winfo_children():
@@ -240,7 +246,8 @@ class SmartStock:
         self.data_file = new_data_file
         self.load_from_json()
         self.show_message(f"Data file updated to {new_data_file}", "success")
-    
+
+
     def save_to_json(self):
         """Save products to JSON file"""
         try:
@@ -267,6 +274,8 @@ class SmartStock:
         from smartstock_login import SmartStockLogin
         login_app = SmartStockLogin()
         login_app.run()
+
+
     
     def show_message(self, message, message_type="info"):
         """Show a status message to the user"""
